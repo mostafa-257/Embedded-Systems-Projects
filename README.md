@@ -31,7 +31,7 @@ Create CAN network from 3 ECU (Node ID 1, 2 and 3). Each ECU Has the following f
     - Act as Sensor ECU.
     - Responsible for receiving the distance sensor read though UART on Duty cycle.
     - Send Distance over CAN every 100 ms. (The latest received).
-    - Convert the Duty cycle to Distance based on the following readings:
+    - Convert the Duty cycle to Distance based on the following:
         Duty Cycle       |      Distance
         -------------------------------------
         0%  to 10%       |      Sensor Error
