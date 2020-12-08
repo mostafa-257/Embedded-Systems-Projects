@@ -1,0 +1,31 @@
+LAMP.obj: ../LAMP.c
+LAMP.obj: D:/CLG/Automotive\\ Embedded/Projects/ADAS_ECUS/LAMP.h
+LAMP.obj: D:\CLG\Automotive\\ Embedded\Projects\ADAS_ECUS\COMMON.h
+LAMP.obj: D:\CLG\Automotive\\ Embedded\Projects\ADAS_ECUS\tm4c123gh6pm.h
+LAMP.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/stdlib.h
+LAMP.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/_ti_config.h
+LAMP.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/linkage.h
+LAMP.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/_ti_config.h
+LAMP.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/cdefs.h
+LAMP.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/stdbool.h
+LAMP.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/stdint.h
+LAMP.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/_stdint40.h
+LAMP.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/stdint.h
+LAMP.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/cdefs.h
+LAMP.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/_types.h
+LAMP.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/cdefs.h
+LAMP.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/machine/_types.h
+LAMP.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/machine/_stdint.h
+LAMP.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/_stdint.h
+LAMP.obj: C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_can.h
+LAMP.obj: C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_ints.h
+LAMP.obj: C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_memmap.h
+LAMP.obj: C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_types.h
+LAMP.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/can.h
+LAMP.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gpio.h
+LAMP.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/interrupt.h
+LAMP.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/pin_map.h
+LAMP.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/sysctl.h
+LAMP.obj: D:\CLG\Automotive\\ Embedded\Projects\ADAS_ECUS\DIO.h
+LAMP.obj: D:\CLG\Automotive\\ Embedded\Projects\ADAS_ECUS\COMMON.h
+LAMP.obj: ..\COMMON.h
